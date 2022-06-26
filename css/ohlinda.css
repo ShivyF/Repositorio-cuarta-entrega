@@ -60,6 +60,10 @@
     color: white;
     display: flex;
     justify-content:right;
+    margin-left: -48px;
+}
+
+.material-symbols-outlined {
     margin: 7px;
     padding: 5px;
 }
